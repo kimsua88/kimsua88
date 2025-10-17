@@ -7,8 +7,14 @@ Flutter 기반으로 <b>DoDay+</b> 앱을 직접 개발 및 출시했습니다.<
 
 
 ### 🚀 Projects
-- 📝 **DoDay+** — Flutter 기반 투두리스트 앱  
-  📱 [App Store 바로가기](https://apps.apple.com/kr/app/DoDay+/1234567890) | [Google Play 바로가기](https://play.google.com/store/apps/details?id=com.sua.doday)
+- 📝 **DoDay+**
+  > Flutter 기반 투두리스트 앱 (App Store / Google Play 출시)
+
+<p align="center">
+  <a href="https://apps.apple.com/..."><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+  <a href="https://play.google.com/..."><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+</p>
+
 
 ---
 ### 🧠 Tech Stack
