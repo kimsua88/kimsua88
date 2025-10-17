@@ -5,6 +5,11 @@ Flutter 기반으로 <b>DoDay+</b> 앱을 직접 개발 및 출시했습니다.<
 현재는 AI 기능을 활용한 앱 서비스 기획과 모델 학습에 집중하고 있습니다.
 </p>
 
+
+### 🚀 Projects
+- 📝 **DoDay+** — Flutter 기반 투두리스트 앱  
+  📱 [App Store 바로가기](https://apps.apple.com/kr/app/DoDay+/1234567890) | [Google Play 바로가기](https://play.google.com/store/apps/details?id=com.sua.doday)
+
 ---
 ### 🧠 Tech Stack
 
